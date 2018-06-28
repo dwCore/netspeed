@@ -1,0 +1,14 @@
+{
+  "name": "@dwcore/netspeed",
+  "version": "0.1.1",
+  "description": "Library For Measuring the Network Speed Of The dWeb.",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
